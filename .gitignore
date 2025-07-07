@@ -1,0 +1,14 @@
+# Node
+node_modules
+.env
+
+# Python
+ai-engine/venv
+__pycache__/
+
+# Vite
+dist
+
+# System
+.DS_Store
+
